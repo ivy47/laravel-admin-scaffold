@@ -12,6 +12,8 @@ Laravel + Laravel-Admin scaffold
 
 ## Instructions
 
+`composer create-project ivy47/laravel-admin-scaffold your-project-name`
+
 `php artisan admin:install`
 
 `php artisan migrate`
