@@ -1,11 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "ivy47/laravel-admin-scaffold",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": [
-        "framework",
-        "laravel"
-    ],
+    "description": "Laravel + Laravel-Admin scaffold",
     "license": "MIT",
     "require": {
         "php": "^7.1.3",
