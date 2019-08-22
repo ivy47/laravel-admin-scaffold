@@ -13,6 +13,7 @@ Laravel + Laravel-Admin scaffold
 ## Instructions
 
 `php artisan admin:install`
+
 `php artisan migrate`
 
 More info: [Laravel](https://github.com/laravel/laravel), [Laravel-Admin](https://github.com/z-song/laravel-admin).
