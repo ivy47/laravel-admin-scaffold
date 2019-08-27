@@ -100,11 +100,24 @@ return [
     ],
     'grid_items_selected'    => '{n} элементов выбрано',
 
-    'menu_titles'            => [],
+    'menu_titles'            => [
+        'dashboard' => 'Рабочий стол',
+        'admin' => 'Администрирование',
+        'users' => 'Пользователи',
+        'roles' => 'Роли',
+        'permission' => 'Разрешения',
+        'menu' => 'Меню',
+        'operation_log' => 'Журнал действий',
+    ],
     'prev'                   => 'Предыдущая',
     'next'                   => 'Следующая',
 
     /*CUSTOM*/
+    'authorization' => 'Вход',
+    'forgot_your_password' => 'Забыли пароль?',
+    'registration' => 'Регистрация',
+    'register' => 'Зарегистрироваться',
+    'email' => 'Почта',
     'email_verify' => [
         'email_is_not_verified' => 'Email не подтвержден. Подтвердите свой email.',
         'if_you_did_not_receive_the_email' => 'Если Вы не получили подтверждение.',
