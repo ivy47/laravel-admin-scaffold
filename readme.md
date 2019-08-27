@@ -1,12 +1,3 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
-<p align="center">
-<a href="https://laravel-admin.org/">
-<img src="https://laravel-admin.org/images/logo002.png" alt="laravel-admin">
-</a>
-</p>
-
-
-
 ## Laravel + Laravel-Admin
 Laravel + Laravel-Admin scaffold
 
