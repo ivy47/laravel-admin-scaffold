@@ -14,9 +14,11 @@ Laravel + Laravel-Admin scaffold
 
 `composer create-project ivy47/laravel-admin-scaffold your-project-name`
 
-`php artisan admin:install`
-
 `php artisan migrate`
+
+`php artisan db:seed --class=AdminTablesSeeder`
+
+`php artisan db:seed --class=AdminUsersTableSeeder`
 
 More info: [Laravel](https://github.com/laravel/laravel), [Laravel-Admin](https://github.com/z-song/laravel-admin).
 
