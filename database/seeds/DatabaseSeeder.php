@@ -11,14 +11,6 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        $this->call([
-            AdminUsersTableSeeder::class,
-            AdminPermissionsTableSeeder::class,
-            AdminRolesTableSeeder::class,
-            AdminRolePermissionsTableSeeder::class,
-            AdminMenuTableSeeder::class,
-            AdminRoleMenuTableSeeder::class,
-            AdminRoleUsersTableSeeder::class,
-        ]);
+        //$this->call([]);
     }
 }
