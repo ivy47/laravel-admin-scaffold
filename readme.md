@@ -5,6 +5,8 @@ Laravel + Laravel-Admin scaffold
 
 `composer create-project ivy47/laravel-admin-scaffold your-project-name`
 
+`configure .env file`
+
 `php artisan migrate`
 
 `php artisan db:seed --class=AdminTablesSeeder`
